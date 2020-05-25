@@ -1,7 +1,7 @@
 # IDEs
 .idea/
 .vscode/
-
+*.code-workspace
 # Hugo
 resources/
 public/
