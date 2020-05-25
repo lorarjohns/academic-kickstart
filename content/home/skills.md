@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Linux"
   description = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = ""
 
@@ -40,7 +40,7 @@ subtitle = ""
 
 [[feature]]
   icon = "docker"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Docker"
   description = ""
 
