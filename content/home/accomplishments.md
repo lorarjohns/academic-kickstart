@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006-01-02"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -23,6 +23,7 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "NLP with Deep Learning"
   # certificate_url = ""
+  certificate_url = "files/28520835_SCPDRecordofCompletion.pdf"
   date_start = "2020-03-09"
   date_end = "2020-05-22"
   description = ""
