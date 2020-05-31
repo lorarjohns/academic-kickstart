@@ -38,6 +38,12 @@ date_format = "2006-01-02"
   description = ""
 
 [[item]]
+  organization = "DataCamp"
+  title = "Python Programming"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/6f585948753a4ac51ac0d2bdbcf04144b82a5cf3"
+  date_start = "2020-02-01"
+
+[[item]]
   organization = "HackerRank"
   organization_url = ""
   title = "Problem Solving"
